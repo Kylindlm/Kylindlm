@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology and Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/kylindlm/NAMEMELATER)
+- [Active Directory Home Lab](https://github.com/Kylindlm/ActiveDirectoryHomeLab/blob/main/README.md)
 
 <h2> Certifications:</h2>
 
